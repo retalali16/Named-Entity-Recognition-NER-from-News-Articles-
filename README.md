@@ -16,7 +16,7 @@ Entities detected include **PERSON, ORG, GPE, DATE, MONEY**, and more.
 - Visualize entities using **color-coded highlights** (SpaCy displacy)  
 - Compare SM vs TRF model outputs side-by-side  
 - Show entity counts for each model  
-- ]saved extracted entities to CSV
+- saved extracted entities to CSV
 
 ---
 
